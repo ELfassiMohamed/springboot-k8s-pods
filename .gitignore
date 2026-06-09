@@ -63,3 +63,13 @@
 # Windows
 Thumbs.db
 
+# Graphify
+graphify/
+graphify-out/
+graphify_detect.json
+graphify_extract_test2.py
+graphify*
+
+# Opencode
+.opencode/
+
